@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jotac431&count_private=true&theme=react)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jotac431&layout=compact&theme=react)
+
+### Most Recent Project
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jotac431&repo=FEUP-DDJD-Miasma&theme=react)
