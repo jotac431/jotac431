@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 My name is Jorge Costa and I'm a student at FEUP with a bachelor's degree in Informatics and Computing Engineering and currently doing master's.
-- 🎮 My favorite area is Game Development
+- 🎮 Fond on the realm of Game Development
 - ⚽ Sports enthusiast
-- 🌱 Currently learning Unreal Engine 5 and different web frameworks
+- 🌱 Currently expanding my programming knowledge and learning different web frameworks
 - 👯 Looking to collaborate on a project or company to boost my skills
 - 📫 How to reach me: https://www.linkedin.com/in/jorge-costa-2b5b32235/
 
